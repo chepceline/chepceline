@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damaris Chepchirchir</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/damarischepchi3" target="blank"><img src="https://img.shields.io/twitter/follow/damarischepchi3?logo=twitter&style=for-the-badge" alt="damarischepchi3" /></a> </p>
 
