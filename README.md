@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/damarischepchi3" target="blank"><img src="https://img.shields.io/twitter/follow/damarischepchi3?logo=twitter&style=for-the-badge" alt="damarischepchi3" /></a> </p>
 
-- 🔭 I’m currently working on **Django Projects**
+- 🔭 I’m currently working on **Laravel Projects**
 
 - 🌱 I’m currently learning **React Native**
 
