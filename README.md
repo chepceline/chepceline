@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Laravel Projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **chepceline25@gmail.com**
 
